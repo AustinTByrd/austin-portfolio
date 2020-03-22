@@ -1,0 +1,9 @@
+name: Austin Byrd
+bio: |
+  Written by You. This is where your author bio lives. Share your work, your
+  joys and of course, your Twitter handle.
+avatar: ./avatars/austin-byrd.jpg
+social:
+  - url: https://twitter.com/austintbyrd
+  - url: https://linkedin.com/in/austintbyrd
+featured: true
